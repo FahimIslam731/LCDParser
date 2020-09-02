@@ -1,0 +1,4 @@
+1. After downloading doccharge.zip, double click it. Creating a doccharge directory.
+2. enter "cd doccharge"
+3. update config.properties with your MYSQL information
+4. enter "sh run.sh" 

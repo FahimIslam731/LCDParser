@@ -1,0 +1,103 @@
+lcd_id, bill_code_id, description
+33557, 11, Hospital Inpatient (Including Medicare Part A)
+33557, 12, Hospital Inpatient (Medicare Part B only)
+33557, 13, Hospital Outpatient
+33557, 71, Clinic - Rural Health
+33557, 77, Clinic - Federally Qualified Health Center (FQHC)
+33557, 85, Critical Access Hospital
+33952, 13, Hospital Outpatient
+33952, 85, Critical Access Hospital
+34229, 999, Not Applicable
+34315, 999, Not Applicable
+34324, 999, Not Applicable
+34372, 12, Hospital Inpatient (Medicare Part B only)
+34372, 13, Hospital Outpatient
+34372, 14, Hospital - Laboratory Services Provided to Non-patients
+34372, 71, Clinic - Rural Health
+34372, 77, Clinic - Federally Qualified Health Center (FQHC)
+34372, 85, Critical Access Hospital
+34833, 11, Hospital Inpatient (Including Medicare Part A)
+34833, 12, Hospital Inpatient (Medicare Part B only)
+34833, 13, Hospital Outpatient
+34833, 21, Skilled Nursing - Inpatient (Including Medicare Part A)
+34833, 71, Clinic - Rural Health
+34833, 73, Clinic - Freestanding
+34833, 83, Ambulatory Surgery Center
+34833, 85, Critical Access Hospital
+34856, 12, Hospital Inpatient (Medicare Part B only)
+34856, 13, Hospital Outpatient
+34856, 14, Hospital - Laboratory Services Provided to Non-patients
+34856, 22, Skilled Nursing - Inpatient (Medicare Part B only)
+34856, 23, Skilled Nursing - Outpatient
+34856, 72, Clinic - Hospital Based or Independent Renal Dialysis Center
+34856, 83, Ambulatory Surgery Center
+34856, 85, Critical Access Hospital
+34865, 12, Hospital Inpatient (Medicare Part B only)
+34865, 13, Hospital Outpatient
+34865, 83, Ambulatory Surgery Center
+34865, 85, Critical Access Hospital
+34953, 12, Hospital Inpatient (Medicare Part B only)
+34953, 13, Hospital Outpatient
+34953, 18, Hospital - Swing Beds
+34953, 21, Skilled Nursing - Inpatient (Including Medicare Part A)
+34953, 22, Skilled Nursing - Inpatient (Medicare Part B only)
+34953, 23, Skilled Nursing - Outpatient
+34953, 71, Clinic - Rural Health
+34953, 73, Clinic - Freestanding
+34953, 75, Clinic - Comprehensive Outpatient Rehabilitation Facility (CORF)
+34953, 77, Clinic - Federally Qualified Health Center (FQHC)
+34953, 85, Critical Access Hospital
+35083, 11, Hospital Inpatient (Including Medicare Part A)
+35083, 12, Hospital Inpatient (Medicare Part B only)
+35083, 13, Hospital Outpatient
+35083, 18, Hospital - Swing Beds
+35083, 21, Skilled Nursing - Inpatient (Including Medicare Part A)
+35083, 71, Clinic - Rural Health
+35083, 85, Critical Access Hospital
+35084, 12, Hospital Inpatient (Medicare Part B only)
+35084, 13, Hospital Outpatient
+35084, 85, Critical Access Hospital
+35397, 11, Hospital Inpatient (Including Medicare Part A)
+35397, 12, Hospital Inpatient (Medicare Part B only)
+35397, 13, Hospital Outpatient
+35397, 83, Ambulatory Surgery Center
+35397, 85, Critical Access Hospital
+35409, 12, Hospital Inpatient (Medicare Part B only)
+35409, 13, Hospital Outpatient
+35409, 71, Clinic - Rural Health
+35409, 73, Clinic - Freestanding
+35409, 83, Ambulatory Surgery Center
+35409, 85, Critical Access Hospital
+35451, 11, Hospital Inpatient (Including Medicare Part A)
+35451, 12, Hospital Inpatient (Medicare Part B only)
+35451, 13, Hospital Outpatient
+35451, 18, Hospital - Swing Beds
+35451, 21, Skilled Nursing - Inpatient (Including Medicare Part A)
+35451, 22, Skilled Nursing - Inpatient (Medicare Part B only)
+35451, 23, Skilled Nursing - Outpatient
+35451, 28, Skilled Nursing - Swing Beds
+35451, 83, Ambulatory Surgery Center
+35451, 85, Critical Access Hospital
+35526, 12, Hospital Inpatient (Medicare Part B only)
+35526, 13, Hospital Outpatient
+35526, 14, Hospital - Laboratory Services Provided to Non-patients
+35526, 21, Skilled Nursing - Inpatient (Including Medicare Part A)
+35526, 22, Skilled Nursing - Inpatient (Medicare Part B only)
+35526, 23, Skilled Nursing - Outpatient
+35526, 71, Clinic - Rural Health
+35526, 72, Clinic - Hospital Based or Independent Renal Dialysis Center
+35526, 77, Clinic - Federally Qualified Health Center (FQHC)
+35526, 85, Critical Access Hospital
+35751, 999, Not Applicable
+35761, 999, Not Applicable
+36139, 0, TBD
+36209, 12, Hospital Inpatient (Medicare Part B only)
+36209, 13, Hospital Outpatient
+36209, 14, Hospital - Laboratory Services Provided to Non-patients
+36209, 22, Skilled Nursing - Inpatient (Medicare Part B only)
+36209, 23, Skilled Nursing - Outpatient
+36209, 71, Clinic - Rural Health
+36209, 85, Critical Access Hospital
+36358, 999, Not Applicable
+36362, 999, Not Applicable
+36889, 999, Not Applicable
